@@ -6,7 +6,7 @@ host = "localhost"
 port = "5432"
 dbname = "gme221"
 user = "postgres"
-password = "Sugarpie11*"
+password = "***********"
 
 # Create the connection string
 conn_str = f"postgresql+psycopg2://{user}:{password}@{host}:{port}/{dbname}"
